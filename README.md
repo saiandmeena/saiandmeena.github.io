@@ -2,4 +2,4 @@
 
 
 Website for my cousin's marriage.
-Made by (Anish Lakkapragada)[https://github.com/anish-lakkapragada]
+Made by [Anish Lakkapragada](https://github.com/anish-lakkapragada).
