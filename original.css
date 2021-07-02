@@ -1,10 +1,7 @@
 body {
-    background: linear-gradient(to bottom, #b6f7f7 0%, #fae9fc 100%);
-    margin-right: 450px;
-    margin-left: 450px;
-    margin-top: 50px; 
-    margin-bottom: 50px;  
-    background-repeat: no-repeat;
+    background: linear-gradient(to bottom, #cae9f3 0%, #f8dcea 100%);
+    margin-right: 200px; 
+    margin-left: 200px; 
 }
 
 #marriage-title {
@@ -17,9 +14,6 @@ body {
     -moz-text-fill-color: transparent;
     margin-top: 0px; 
     padding-top: 0px;
-    margin-bottom: 0px; 
-    padding-bottom: 0px; 
-    font-size: 90px; 
 }
 
 .date-title {
@@ -43,36 +37,25 @@ body {
     text-align: center; 
     font-family: ui-sans-serif, system-ui; 
     position: relative; 
-    min-width: 100px; 
 }
 
 #head-desc {
     font-size: 25px; 
     position: relative; 
     text-align: center; 
-    min-width: 100px;
 }
 
-
-
-.preparation-images {
-    text-align: center;
-    margin: 0 auto; 
-}
 
 .haldi-images {
     text-align: center; 
-    margin: 0 auto; 
 }
 
 .haldi-lunch-images{
     text-align: center;
-    margin: 0 auto; 
 }
 
 .last-haldi-images{
     text-align: center;
-    margin: 0 auto; 
 }
 
 
@@ -110,33 +93,3 @@ body {
     text-align: center;
     font-size: 17px; 
 }
-
-.nav{
-    background-color: #48f5f5;
-    border-width:1px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    font-size: 30px; 
-    border-radius: 13px;
-    text-decoration: none;
-    text-align:center;
-    font-family: ui-sans-serif, system-ui;
-    min-width: 200px;
-}
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:10px;
-    text-decoration: none;
-    border-radius: 13px;
-    border-color: black; 
-    color: black;
-}
-
-.nav a:hover {
-    background-color: rgb(119, 245, 245);
-    color: black;
-} 

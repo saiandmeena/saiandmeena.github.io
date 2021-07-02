@@ -54,6 +54,7 @@ body {
 
 .sakoon-prior, .dance1, .finale_dance, .three_dance, .thank-yous, .bride_groom_speech, .last-dance, .mom-dance , .more-photos{
     text-align: center;
+    margin: 0 auto; 
 }
 
 .nav{

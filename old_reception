@@ -1,0 +1,88 @@
+<!DOCTYPE html> 
+<title> Sai Kiran ♥ Meena Reception </title> 
+
+<html> 
+    <ul class="nav">
+        <li><a class="active" href="index.html">Home</a></li>
+        <li><a href="proposal.html">Proposal</a></li>
+        <li><a href="pelli_kuthuru.html">Pelli Kuthuru</a></li> 
+        <li><a href="mehendi.html">Mehendi</a></li> 
+        <li><a href = "wedding.html">Wedding</a></li>
+        <li><a href = "reception.html"> Reception</a></li>
+    </ul>
+
+    <link rel = "stylesheet" href = "reception.css"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Playball">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Serif KR">
+    <h1 class = "date-title" id = "head-title"> <p id = "marriage-title"> Reception </p> </h1> 
+    <!
+    <head> 
+        <body> 
+            <div> 
+                <p class = "desc" id = "head-desc"> 
+                     The reception was a fun social event with lots of dances, food, and celebration!
+                </p>
+            </div> 
+
+            <div class = "sakoon-prior"> 
+                <p class = "desc"> First, Meena's family and relatives arrived to Sakoon. </p>
+                <img src = "https://drive.google.com/uc?id=1t36OE3wCKBlxVrwdvq6HuBi8pwu7SSQ8" height = 600px>
+                <iframe src="https://drive.google.com/file/d/1KhbeMyVFg7rOyfZ_zAKGwVypfyO1Ytu8/preview" height = 600px frameborder="0" scrolling="no" seamless=""></iframe>
+                <img src = "assets/Reception/lakka_couple.jpg" height = 600px>
+                <br> 
+                <img src = "assets/Reception/two_brothers.jpg" height = 600px> 
+                <img src = "assets/Reception/mudhu_bike.jpg" height = 600px>
+                <img src = "assets/Reception/lakka_family.jpg" height = 600px> 
+                <img src = "assets/Reception/three_muskets_copy.jpg" height = 600px> 
+            </div>
+
+            <div class = "dance1"> 
+                <p class = "desc"> Once everybody was there, many dances were performed! </p>
+                <video src = "assets/Reception/desi_boys.mov" height = 600px controls> </video>
+                <video src = "assets/Reception/dingding_dance.mov" height = 600px  controls> 
+            </div> 
+            
+            <div class = "three_dance"> 
+                <video src = "assets/Reception/3_muskets_dance.mov" height = 600px controls> 
+            </div>
+
+            <div class = "finale_dance"> 
+                <p class = "desc"> And of course, who can forget the bride and groom? </p>
+                <video src = "assets/Reception/bride_groom_dance.mov" height = 600px controls> </video>
+                <video src = "assets/Reception/butta_bamma.mov" height = 600px controls> </video>
+            </div>
+            
+            <div class = "thank-yous"> 
+                <p class = "desc"> The emotional speeches and thank-yous </p>
+                <video src = "assets/Reception/madvieta_speech.mov" height = 300px controls> 
+            </div>  
+            <div class = "bride_groom_speech"> 
+                <video src = "assets/Reception/sai_kiran_speech.mov" height = 600px controls> </video>
+                <video src = "assets/Reception/meena_speech.mov" height = 600px controls> </video>
+            </div> 
+
+            <div class = "last-dance"> 
+                <p class = "desc"> Finally dinner was served, and the dance floor was open for everyone! </p>
+                <img src = "assets/Reception/three_kids_dinner.jpg" height = 600px> 
+                <img src = "assets/Reception/sandeep.jpg" height = 600px>
+                <br> 
+                <img src = "assets/Reception/meena_kavya_dad.jpg" height = 600px>
+                <video src = "assets/Reception/dad_dancing.mov" height = 600px controls> </video>
+                <video src = "assets/Reception/mom_dance.mov" height = 600px controls> 
+            </div>
+
+            <div class = "more-photos"> 
+                <p class = "desc"> Some more photos are also shown below. </p>    
+                <img src = "assets/Reception/madvieta_sign.jpg" height = 600px> 
+                <img src = "assets/Reception/decor.jpg" height = 600px>
+                <img src = "assets/Reception/mudhu_and_mom.jpg" height = 600px>
+                <br> 
+                <img src = "assets/Reception/sandeep_madvieta.jpg" height = 600px>
+                <img src = "assets/Reception/sandeep_smiley.jpg" height = 600px> 
+                <img src = "assets/Reception/more_smiley.jpg" height = 600px> 
+                <img src = "assets/Reception/madhuri_host_extra.jpg" height = 600px> 
+                <img src = "assets/Reception/all_hands_up.jpg" height = 600px> 
+            </div>     
+        </body>
+    </head>
+</html>

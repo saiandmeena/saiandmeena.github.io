@@ -54,16 +54,19 @@ body {
 .top-proposal-images {
     text-align: center;
     display: block;
+    margin: 0 auto; 
 }
 
 .bottom-proposal-images {
     text-align: center;
     display:  block;
+    margin: 0 auto; 
 }
 
 .last-proposal-images {
     text-align: center;
     display: block;
+    margin: 0 auto; 
 }
 
 .inline-block {

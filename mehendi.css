@@ -82,14 +82,17 @@ body {
 
 .upper-mehendi-images{
     text-align: center;
+    margin: 0 auto; 
 }
 
 .middle-mehendi-images {
     text-align: center; 
+    margin: 0 auto; 
 }
 
 .bottom-mehendi-images {
     text-align: center; 
+    margin: 0 auto; 
 }
 
 .ritual-name {

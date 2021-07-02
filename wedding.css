@@ -54,6 +54,7 @@ body {
 
 .decor-images, .meena-arrives, .guests-arrive, .all-ritual-photos, .food {
     text-align: center;
+    margin: 0 auto; 
 }
 
 .nav{
